@@ -1,3 +1,8 @@
+## A Parser for Mathematical Expressions
+
+This is a simple lexical analyzer and parser for mathematical expressions built using Lex and Yacc
+
+
 ### Parser
 This uses a simple non-Ambiguous CFG for Mathematical Expressions, using exponential notation is also supported.
 ### Execution
